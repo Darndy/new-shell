@@ -24,7 +24,7 @@ char *location(char *arg)
 
         strcpy(filepath, pathtoken);
         strcat(filepath, "/");
-        strcat(filepath, arg:wq
+        strcat(filepath, arg);
 	
 
 	strcat(filepath, "\0");
